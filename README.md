@@ -2,7 +2,7 @@
 
 **ImageLoaderPlus** is a compact image loader with a floating input-gallery and file organizer for ComfyUI. It provides standard `IMAGE` and `MASK` outputs and manages images strictly inside the selected ComfyUI installation's `input` folder.
 
-**Current version: v0.1.7.** This repository is a publication of the tested build, not a new major release.
+**Current version: v1.0.0.** This repository is a publication of the tested build, not a new major release.
 
 ## Features
 
@@ -52,7 +52,7 @@ Restart ComfyUI and refresh the browser (Ctrl+F5). Add **ImageLoaderPlus** from 
 
 ## Version history
 
-See [CHANGELOG.md](CHANGELOG.md) for changes in v0.1.5–v0.1.7. The original Russian release notes are preserved in [README.ru.md](README.ru.md).
+See [CHANGELOG.md](CHANGELOG.md) for changes in v0.1.5–v1.0.0. The original Russian release notes are preserved in [README.ru.md](README.ru.md).
 
 ## License
 
