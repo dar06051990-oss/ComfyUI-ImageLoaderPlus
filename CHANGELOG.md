@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.7 — Per-folder gallery
+## 1.0.0 — Per-folder gallery
 
 - Changed the top-level gallery entry from “All images” to `input`.
 - Show files and image counts for the selected folder only (not nested folders).
