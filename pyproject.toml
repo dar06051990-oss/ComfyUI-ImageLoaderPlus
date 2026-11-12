@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-imageloaderplus"
+version = "0.1.7"
+description = "Privacy-aware image loader and input folder organizer: gallery, clipboard, move, recycle and subfolders."
+requires-python = ">=3.10"
+dependencies = []
+license = "MIT"
+
+[tool.comfy]
+PublisherId = "dar06051990-oss"
+DisplayName = "ComfyUI-ImageLoaderPlus"
+Icon = ""
