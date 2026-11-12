@@ -1,4 +1,4 @@
-# ComfyUI-ImageLoaderPlus v0.1.7 (test build)
+# ComfyUI-ImageLoaderPlus v1.0.0 (test build)
 
 Компактная нода загрузки изображений для ComfyUI с отдельным менеджером файлов в стиле **ComfyUI-PromptLora**. Галерея работает исключительно с изображениями в `ComfyUI/input` и вложенных папках.
 
